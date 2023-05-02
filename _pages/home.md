@@ -1,17 +1,15 @@
 ---
-title: "The 61st Annual Meeting of the Association for Computational Linguistics"
+title: "RACL '23: The 1st Annual Compilation of Rejected Papers of the Association for Computational Linguistics"
 layout: splash
 permalink: /
 header:
   overlay_image: "/assets/images/toronto/wallpaperflare.com_toronto.jpg"
   caption: '<a href="https://www.wallpaperflare.com/toronto-skyline-at-night-images-android-wallpapers-for-your-desktop-or-phone-3840×2160-wallpaper-bnmtd" target="_blank">Photo @ Wallpaper Flare</a>'
-excerpt: "Toronto, Canada<br>July 9-14, 2023"
 ---
 
 ## Welcome!
 
-The 61st Annual Meeting of the Association for Computational Linguistics (ACL'23) will take place in **Toronto, Canada** from **July 9th to July 14th, 2023**.
-More information will be announced soon.
+The 1st Annual Compilation of Rejected Papers of the Association for Computational Linguistics (RACL'23) will be available on this site.
 
 ## News
 
