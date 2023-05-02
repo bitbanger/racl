@@ -3,8 +3,8 @@ title: "RACL '23: The 1st Annual Compilation of Rejected Papers of the Associati
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/toronto/wallpaperflare.com_wallpaper.jpg"
-  caption: '<a href="https://www.wallpaperflare.com/toronto-skyline-at-night-images-android-wallpapers-for-your-desktop-or-phone-3840×2160-wallpaper-bnmtd" target="_blank">Photo @ Wallpaper Flare</a>'
+  overlay_image: "/assets/images/toronto/thumb_down.png"
+  caption: '<a href="https://www.wallpaperflare.com/silhoutte-of-person-right-hand-silhouette-thumb-down-looser-wallpaper-wyzcw" target="_blank">Photo @ Wallpaper Flare</a>'
 ---
 
 ## Welcome!
